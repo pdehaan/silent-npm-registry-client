@@ -1,6 +1,6 @@
 {
   "name": "silent-npm-registry-client",
-  "description": "Npm registry client that doesn't spam stdout/stderr",
+  "description": "npm registry client that doesn't spam stdout/stderr",
   "version": "0.0.0",
   "repository": {
     "type": "git",
@@ -9,8 +9,8 @@
   "homepage": "https://github.com/juliangruber/silent-npm-registry-client",
   "main": "index.js",
   "dependencies": {
-    "npm-registry-client": "~0.2.26",
-    "xtend": "~2.0.6"
+    "npm-registry-client": "~3.1.7",
+    "xtend": "~4.0.0"
   },
   "keywords": [
     "npm",
